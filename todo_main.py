@@ -5,4 +5,5 @@ while True:
     todos.append(todo1)
     print(todos)
 
+check
 
